@@ -28,3 +28,6 @@ There are two fundamental types of widgets you will use:
 
 - Stateless: widgets that depend only upon their own configuration info, such as a static image in an image view.
 - Stateful: widgets that need to maintain dynamic information and do so by interacting with a State object.
+
+
+Sources: [Getting Started with Flutter] https://www.raywenderlich.com/4529993-getting-started-with-flutter#toc-anchor-007
