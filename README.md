@@ -20,5 +20,5 @@ Almost every element of your Flutter app is a widget. Widgets are designed to be
 
 There are two fundamental types of widgets you will use:
 
-### - Stateless: widgets that depend only upon their own configuration info, such as a static image in an image view.
-### - Stateful: widgets that need to maintain dynamic information and do so by interacting with a State object.
+- Stateless: widgets that depend only upon their own configuration info, such as a static image in an image view.
+- Stateful: widgets that need to maintain dynamic information and do so by interacting with a State object.
