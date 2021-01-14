@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Widgets
+Almost every element of your Flutter app is a widget. Widgets are designed to be immutable, since using immutable widgets helps keep the app UI lightweight.
+
+There are two fundamental types of widgets you will use:
+
+Stateless: widgets that depend only upon their own configuration info, such as a static image in an image view.
+Stateful: widgets that need to maintain dynamic information and do so by interacting with a State object.
