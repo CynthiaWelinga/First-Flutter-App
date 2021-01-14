@@ -74,7 +74,7 @@ class GHFlutterApp extends StatelessWidget {
     return MaterialApp(
       title: Strings.appTitle,
       home: GHFlutter(),
-    );
+    ); // MaterialApp
   }
 }
 
